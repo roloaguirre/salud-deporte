@@ -10,3 +10,7 @@ este repositorio es público, así que **solo contiene código** (nunca datos de
 - `vercel.json`: publica la carpeta `web/`.
 
 Esquema de la base: ver `plataforma/schema.sql` en la carpeta del proyecto (tablas con RLS por usuario).
+
+## Despliegue
+
+El proyecto de Vercel `salud-deporte` está conectado a este repo: cada push a `main` publica la carpeta `web/`.
